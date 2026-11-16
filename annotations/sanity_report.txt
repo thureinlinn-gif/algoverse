@@ -1,0 +1,30 @@
+======================================================================
+  YouCook2 NB2 Sanity Report
+======================================================================
+
+── Check 1: Temporal Segment Mismatch ─────────────────────────────────
+  Issues found : 0
+  ✓  No temporal mismatches.
+
+── Check 2: Sampler Stress-Test ────────────────────────────────────────
+  Segments tested         : 200
+  Short (needed padding)  : 0  (0.0%)
+  Assertion errors        : 0
+  ✓  All samples returned (8, H, W, 3).
+
+── Check 3: Clamping Unit Tests ────────────────────────────────────────
+  ✓  6 / 6 edge-case tests passed.
+
+── Check 4: Text Alignment ─────────────────────────────────────────────
+  Null captions           : 0
+  Empty captions          : 0
+  Non-ASCII present       : 0
+  Replaced with token     : 0
+  Duplicate captions      : 1,144  (flagged only)
+
+── Output ──────────────────────────────────────────────────────────────
+  segments_clean.csv : 13,716 segments  (dropped: 0)
+  PAD_STRATEGY       : 'loop'
+  N_FRAMES           : 8
+
+======================================================================

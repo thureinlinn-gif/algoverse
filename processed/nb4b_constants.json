@@ -1,0 +1,5 @@
+{
+  "MODEL_NAME": "dinov3_vitl16_dinotxt_tet1280d20h24l",
+  "SHARED_DIM": 2048,
+  "CONTEXT_LENGTH": 77
+}

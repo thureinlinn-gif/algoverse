@@ -1,0 +1,44 @@
+bucket,row,n,top1
+object rule: determines,blind_always_add,1246,0.8258426966292135
+object rule: determines,text_masked_caption,1246,0.8804173354735152
+object rule: determines,dinov2_single_frame,1246,0.7873194221508828
+object rule: determines,dinov3_single_frame,1246,0.5882825040128411
+object rule: determines,dinov2_full_clip,1246,0.8178170144462279
+object rule: determines,dinov3_full_clip,1246,0.7576243980738363
+object rule: determines,dinov2halves_full_clip,1246,0.8250401284109149
+object rule: determines,vjepa2base_full_clip,1246,0.8346709470304976
+object rule: determines,vjepa2_pretrainedpool_full_clip,1246,0.8250401284109149
+object rule: does_not,blind_always_add,1906,0.05771248688352571
+object rule: does_not,text_masked_caption,1906,0.3955928646379853
+object rule: does_not,dinov2_single_frame,1906,0.1852046169989507
+object rule: does_not,dinov3_single_frame,1906,0.195697796432319
+object rule: does_not,dinov2_full_clip,1906,0.18363064008394545
+object rule: does_not,dinov3_full_clip,1906,0.2203567681007345
+object rule: does_not,dinov2halves_full_clip,1906,0.18363064008394545
+object rule: does_not,vjepa2base_full_clip,1906,0.1080797481636936
+object rule: does_not,vjepa2_pretrainedpool_full_clip,1906,0.1930745015739769
+object rule: unseen object,blind_always_add,116,0.22413793103448276
+object rule: unseen object,text_masked_caption,116,0.3879310344827586
+object rule: unseen object,dinov2_single_frame,116,0.3017241379310345
+object rule: unseen object,dinov3_single_frame,116,0.25862068965517243
+object rule: unseen object,dinov2_full_clip,116,0.28448275862068967
+object rule: unseen object,dinov3_full_clip,116,0.33620689655172414
+object rule: unseen object,dinov2halves_full_clip,116,0.28448275862068967
+object rule: unseen object,vjepa2base_full_clip,116,0.2672413793103448
+object rule: unseen object,vjepa2_pretrainedpool_full_clip,116,0.25862068965517243
+text model: right,blind_always_add,1896,0.5638185654008439
+text model: right,dinov2_single_frame,1896,0.6165611814345991
+text model: right,dinov3_single_frame,1896,0.49841772151898733
+text model: right,dinov2_full_clip,1896,0.6408227848101266
+text model: right,dinov3_full_clip,1896,0.619198312236287
+text model: right,dinov2halves_full_clip,1896,0.6418776371308017
+text model: right,vjepa2base_full_clip,1896,0.6044303797468354
+text model: right,vjepa2_pretrainedpool_full_clip,1896,0.6434599156118144
+text model: wrong,blind_always_add,1372,0.06997084548104957
+text model: wrong,dinov2_single_frame,1372,0.1457725947521866
+text model: wrong,dinov3_single_frame,1372,0.1392128279883382
+text model: wrong,dinov2_full_clip,1372,0.13629737609329445
+text model: wrong,dinov3_full_clip,1372,0.16690962099125364
+text model: wrong,dinov2halves_full_clip,1372,0.141399416909621
+text model: wrong,vjepa2base_full_clip,1372,0.09548104956268222
+text model: wrong,vjepa2_pretrainedpool_full_clip,1372,0.15014577259475217

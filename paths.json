@@ -1,0 +1,10 @@
+{
+  "root": "/home/ubuntu/youcook2-videos",
+  "videos": "/home/ubuntu/youcook2-videos/videos",
+  "frames": "/home/ubuntu/youcook2-videos/frames",
+  "embeddings": "/home/ubuntu/youcook2-videos/embeddings/dinov2",
+  "annotations": "/home/ubuntu/youcook2-videos/annotations",
+  "processed": "/home/ubuntu/youcook2-videos/processed",
+  "repos": "/home/ubuntu/youcook2-videos/repos",
+  "checkpoints": "/home/ubuntu/youcook2-videos/checkpoints"
+}

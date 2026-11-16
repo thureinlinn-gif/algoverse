@@ -1,0 +1,2 @@
+model,lr,n_seeds,top1_mean,top1_std,top5_mean,top5_std,selected_epochs
+vjepa2_pretrainedpool,0.0003,2,0.4361995104039168,0.0001529987760097995,0.723531211750306,0.0007649938800489142,"[10, 9]"

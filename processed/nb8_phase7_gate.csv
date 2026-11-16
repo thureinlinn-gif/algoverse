@@ -1,0 +1,8 @@
+check,model,ckpt,n,top1,agreement_with_published,status,lr,published_top1,gap
+scoring,dinov2,nb8_dinov2_seed0_bestepoch9.pt,3268.0,0.42900856793145653,0.9996940024479805,PASS,,,
+scoring,dinov3,,,,,SKIPPED (no text features),,,
+scoring,dinov2halves,nb8_dinov2halves_seed0_bestepoch10.pt,3268.0,0.4317625458996328,1.0,PASS,,,
+scoring,vjepa2base,nb8_vjepa2base_seed1_bestepoch9.pt,3268.0,0.39075887392900854,1.0,PASS,,,
+scoring,vjepa2_pretrainedpool,nb8_vjepa2_pretrainedpool_seed1_bestepoch9.pt,3268.0,0.4363525091799266,1.0,PASS,,,
+training,dinov2,,3268.0,0.4314565360546112,,PASS,0.0003,0.4296205630354957,0.0018359730191155332
+training,vjepa2_pretrainedpool,,3268.0,0.4358935058116913,,PASS,0.0003,0.4361995104039168,-0.00030600459222551724

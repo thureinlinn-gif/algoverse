@@ -1,0 +1,11 @@
+videos/
+frames/
+venv/
+repos/
+embeddings/
+checkpoints/
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.claude/

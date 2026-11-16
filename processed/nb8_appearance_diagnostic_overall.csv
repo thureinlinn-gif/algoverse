@@ -1,0 +1,10 @@
+row,description,n,top1,macro_f1
+blind_always_add,"no input: always ""add""",3268,0.3564871481028152,0.003204898956275825
+text_masked_caption,"caption with the verb masked, no video (TF-IDF + LR)",3268,0.5801713586291309,0.1552095327884774
+dinov2_single_frame,"one middle frame, DINOv2 head",3268,0.41891064871481026,
+dinov3_single_frame,"one middle frame, DINOv3 head",3268,0.34761321909424725,
+dinov2_full_clip,"full clip, DINOv2 (mean-pool)",3268,0.42900856793145653,0.053942791035472525
+dinov3_full_clip,"full clip, DINOv3 (mean-pool)",3268,0.42931456548347613,
+dinov2halves_full_clip,"full clip, DINOv2 (order-aware halves)",3268,0.4317625458996328,0.053576346531928144
+vjepa2base_full_clip,"full clip, V-JEPA2 label-free (mean-pool)",3268,0.39075887392900854,0.013509358761595015
+vjepa2_pretrainedpool_full_clip,"full clip, V-JEPA2 SSv2-pooler (headline)",3268,0.4363525091799266,0.05390944135059039

@@ -1,0 +1,33 @@
+
+============================================================
+  YouCook2 — Dataset Preparation Summary
+============================================================
+
+  ANNOTATION SET
+    Total segments (all)    : 13,829
+    Unique videos  (all)    : 1,790
+    Training segments       : 10,337
+    Validation segments     : 3,492
+
+  DOWNLOAD RESULTS
+    Downloaded (new)        : 1,774
+    Already on disk         : 0
+    Failed (unavailable)    : 16  (0.9% — expected)
+    Available total         : 1,774  (99.1% of dataset)
+
+  AVAILABLE SEGMENTS
+    Total                   : 13,716
+    Training                : 10,259
+    Validation              : 3,457
+    Unique recipe types     : 89
+    Avg duration            : 19.6s
+    Median duration         : 14.0s
+    Avg segments / video    : 7.7
+    Avg caption length      : 8.8 words
+
+  SPLIT INTEGRITY
+    Train/val overlap       : 0 video IDs  (✓ Clean)
+
+============================================================
+  Next step → Notebook 3: verb extraction and caption masking
+============================================================

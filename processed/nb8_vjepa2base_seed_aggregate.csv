@@ -1,0 +1,2 @@
+model,lr,n_seeds,top1_mean,top1_std,top5_mean,top5_std,selected_epochs
+vjepa2base,0.0003,2,0.3916768665850673,0.0009179926560587692,0.653610771113831,0.006731946144430845,"[4, 9]"

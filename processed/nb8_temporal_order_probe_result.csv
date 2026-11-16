@@ -1,0 +1,2 @@
+model,n_segments,mean_cos_sim_fwd_rev,probe_train_acc,probe_test_acc,probe_n_train,probe_n_test
+vjepa2_pretrainedpool,600,0.7981604275852442,0.7197917103767395,0.6916667222976685,960,240

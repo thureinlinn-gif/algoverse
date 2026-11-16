@@ -1,0 +1,2 @@
+model,lr,n_seeds,top1_mean,top1_std,top5_mean,top5_std,macro_f1_mean,macro_f1_std,selected_epochs
+dinov2halves,0.0003,2,0.4317625458996328,0.0,0.747705018359853,0.003212974296205651,0.053165987125262965,0.00036337088164549794,"[10, 7]"
